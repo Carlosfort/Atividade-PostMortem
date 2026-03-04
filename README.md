@@ -6,7 +6,7 @@ PRIMORDIOS
 Projeto desenvolvido para a disciplina de Desenvolvimento de Jogos. 
 ## Link do jogo 
 
-(link do itch.io) 
+https://noanlinhares.itch.io/primordios
 
 ## Screenshots
 
@@ -14,6 +14,6 @@ Projeto desenvolvido para a disciplina de Desenvolvimento de Jogos.
 <img width="1917" height="1079" alt="Captura de tela 2026-03-04 161155" src="https://github.com/user-attachments/assets/4c8adc12-d6a2-4d05-a9fe-eaa77236441f" />
 <img width="1916" height="1079" alt="Captura de tela 2026-03-04 161255" src="https://github.com/user-attachments/assets/0302534e-0284-4396-8064-508a27381f88" />
 
-(imagens do jogo) 
 ## Post Mortem 
+
 Veja o arquivo post-mortem.md 
